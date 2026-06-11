@@ -3,8 +3,8 @@
 This repository contains the Python implementations for the Network Security Lab assignments.
 
 **Student Information:**
-* **Name:** Mohammad Numan Narwaroo
-* **Roll No:** 220319
+* **Name:** Mohammad Usman Dar
+* **Roll No:** 220303
 * **Semester:** 7th
 * **Subject:** Network Security
 
